@@ -25,7 +25,7 @@ A simple Tic Tac Toe game built using JavaScript, HTML, and CSS.
 - Add draw condition 
 
 ## 🔗 Live Demo
-()
+(https://shivangi-1905.github.io/JavaScript-mini-projects/Tic-Tac-Toe/)
 
 
 
